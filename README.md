@@ -12,3 +12,6 @@ An automatic application to detect whether a CT slice sequence infected Covid-19
 
 **weights link**  
 (https://drive.google.com/file/d/1VoMitiZuBfkPnNtbsZzVEI0-3sa70ER-/view?usp=sharing, https://drive.google.com/file/d/1hTl8mRN9ILqdHLf8Eq8E2nuLhHloyauL/view?usp=sharing)
+
+**dataset link**  
+(https://drive.google.com/file/d/1lldIsvzFCB-1WQVfuEXCPN_zW4XnBnSx/view?usp=sharing)
