@@ -3,7 +3,7 @@ An automatic application to detect whether a CT slice sequence infected Covid-19
 ## Component  
 **\solution** - ResNet-50 classification model  
 
-**\solution\external** - the lung segmentation model [Automated lung segmentation in CT under presence of severe pathologies]("https://github.com/FannieCream/lungmask")  
+**\solution\external** - the lung segmentation model[Automated lung segmentation in CT under presence of severe pathologies]("https://github.com/FannieCream/lungmask")  
 
 **\user_interface** - PyQt5 UI files
 
